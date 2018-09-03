@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "Ostrich";
+  src: url("Ostrich.ttf");
+}
+h1 {
+  font-family: "Ostrich";
+  text-align: center;
+  font-size: 100px;
+  text-shadow: 1px 1px 1px #000000;
+}
+h2 {
+  font-family: "Ostrich";
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+}
+h3 {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Ostrich";
+  transition: .7s;
+  position: relative;
+  bottom: 70px;
+  background-color: Orange;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-style: solid;
+}
+#wrapper {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+a {
+  font-family: "Ostrich";
+  font-size: 35px;
+  color: black;
+  position: relative;
+  right: 10px;
+}
+a:hover {
+  color: White;
+}
+/* services.html only*/
+.serve:hover {
+  color: orange;
+}
+nav {
+  text-align: center;
+  background-color: Orange;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-bottom: 20px;
+  border-style: solid;
+
+}
+ul {
+  list-style-type: none;
+  padding-top: 20px;
+}
+#gateway {
+  text-decoration: none;
+}
+#gateway:hover {
+  color: Orange;
+}
+#drinks {
+  padding-top: 20px;
+}
+.drink_comments {
+  position: relative;
+  bottom: 260px;
+  width: 500px;
+  left: 450px;
+  font-family: "Ostrich";
+  font-size: 40px;
+
+}
+/* nav for services.html page */
+#services {
+  background: white;
+}
+#logo {
+  position: relative;
+  left: 200px;
+  border-style: solid;
+}
+#beers {
+  position: relative;
+  float: right;
+  bottom: 180px;
+}
+.left {
+  font-family: "Ostrich";
+  font-size: 40px;
+  width: 500px;
+  position: relative;
+  left: 50px;
+  bottom: 50px;
+}
+footer {
+  font-family: "Ostrich";
+  font-size: 25px;
+}
+#about {
+  background: white;
+}
